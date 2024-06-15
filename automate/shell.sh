@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# path to the local repo
-cd /home/saifcore7/Desktop/java-questions-w3resources
+# path to the local repo or the repo that you cloned
+cd /path/to/your/repo
 
 # stage all changes 
 git add .
