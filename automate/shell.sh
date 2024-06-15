@@ -7,7 +7,7 @@ cd /path/to/your/repo
 git add .
 
 #commit the changes
-git commit -m "yourCommitMessage"
+git commit -m "yourCommitMessageHere"
 
 #push to the remote repo
 git push -u origin main
